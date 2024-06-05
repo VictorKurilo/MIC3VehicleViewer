@@ -1,14 +1,9 @@
-import './App.css'
+import PeoplePage from './pages/people';
 
-
-function App() {
-
-
+const App = () => {
   return (
-    <>
- 
-    </>
-  )
-}
+    <PeoplePage />
+  );
+};
 
-export default App
+export default App;
