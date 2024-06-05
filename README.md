@@ -13,3 +13,7 @@ To get started with the project, follow these steps:
 3. npm install
 
 4. npm run dev
+
+# node version
+
+v20.14.0
